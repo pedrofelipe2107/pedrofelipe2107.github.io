@@ -1,0 +1,152 @@
+/*Barra de navegación*/
+
+.navbar{
+    background-color: white;
+ }
+
+ .navbar a {
+    color:black; 
+  }
+/*Menu despegable*/
+
+  .dropdown-menu {
+    background-color: white; 
+    border: 1px solid black;
+}
+
+.dropdown-item:hover {
+    background-color: #F51300; 
+    color: #ffffff; 
+}
+
+.dropdown-divider {
+    border-top: 1px solid #F51300; 
+    }
+
+/*Botón buscar*/
+    .btn-custom {
+        background-color: #F51300; 
+        color: white;
+        border: none; 
+    }
+    
+/*Cuerpo*/
+    body{
+    background-color:white;
+}
+
+/*Carrusel*/
+.carousel{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.carousel-inner img{
+    width: 100%;
+    max-height: 600px;
+}
+
+/*Tarjetas*/
+
+.card {
+    width: 450px; 
+    border: 2px solid black; 
+    border-radius: 8px; 
+    text-align: center; 
+    padding: 20px; 
+    margin: 10px; 
+    margin-left: 25%;
+}
+
+.card-title {
+    margin-top: 25px;
+    margin-bottom: 33px;
+}
+
+.btn{
+    text-align: center;
+    color:white;
+    background-color: #F51300;
+}
+ñujyn,ghp
+/*Cuadro d jñhlhlgklkh e texto*/
+
+h1 {
+    color: #F51300; 
+    font-size: 36px; 
+   margin-left: 5%;
+   
+}
+
+.cuadro-texto {
+    min-height: 200px; 
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+  }
+  .cuadro-imagen {
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  .cuadro-imagen img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+/*Formulario de contacto*/
+
+.formulario-contacto {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  .cuadro-imagen {
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  .cuadro-imagen img {
+    max-width: 100%; 
+    height: auto;
+    border-radius: 5px;
+  }
+
+ /*Informacio*/
+
+  body {
+    background-color: #f9f9f9;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #F51300;
+}
+
+.card-body p {
+    font-size: 1rem;
+    color: black;
+}
+
+footer {
+    background-color:  #F51300; 
+    color: #ffffff;  
+    font-size: 0.9rem;
+    padding: 15px 0;
+}
+
